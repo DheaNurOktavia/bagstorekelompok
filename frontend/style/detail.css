@@ -1,0 +1,270 @@
+/* navbar */
+.navbar{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.navbar-brand{
+    color: #000 !important;
+    font-size: 28px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+}
+.nav-link{
+    color: #000 !important; 
+    font-size: 17px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+}
+.nav-link.active{
+    color: #EA1B66 !important;
+}
+.nav-link:hover{
+    color: #EA1B66 !important;
+}
+/* tutup navbar */
+
+/* detail */
+.detail{
+    background: #E1A1A1;
+    margin-top: 70px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.dtil-gmbr img{
+    width: 550px;
+    height:750px;
+}
+.hrga{
+    color: rgba(255, 0, 0, 0.46);
+    text-align: center;
+    font-size: 64px;
+    font-family: Spicy Rice;
+    font-style: normal;
+    font-weight: 400;
+}
+.site{
+    margin-left: 100px;
+}
+.tote{
+    color: #000;
+    text-align: center;
+    font-size: 75px;
+    font-family: Spicy Rice;
+    font-style: normal;
+    font-weight: 400;
+}
+.qty h5{
+    color: #000;
+    font-size: 40px;
+    font-family: Spectral;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.book{
+    border-radius: 18px;
+    border: 1px solid #D9D9D9;
+    background: #DAE9EE;
+    width: 570px;
+    height: 686px;
+    padding-left: 28px;
+    padding-top: 32px;
+}
+.btn-less{
+    position: relative;
+    width: 50px;
+    height: 60px;
+    border-radius: 18px 0px 0px 18px;
+    background: #C54C77;
+    color: #FFF;
+    text-align: center;
+    font-size: 30px;
+    font-family: Spectral;
+    font-style: normal;
+    font-weight: 600;
+}
+.btn-add{
+    width: 50px;
+    height: 60px;
+    border-radius: 0px 18px 18px 0px;
+    background: #C54C77;
+    color: #FFF;
+    text-align: center;
+    font-size: 30px;
+    font-family: Spectral;
+    font-style: normal;
+    font-weight: 600;
+}
+.quantity{
+    width: 300px;
+    height: 60px;
+    background: rgba(246, 114, 114, 0.71);
+    text-decoration: none !important;
+    outline: none !important;
+    border: none;
+    color: #000;
+    text-align: center;
+    font-size: 30px;
+    font-family: Spectral;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -1px;
+}
+.quantity::placeholder{
+    color: #000;
+}
+.color h5{
+    margin-top: 20px;
+    color: #000;
+    font-size: 40px;
+    font-family: Spectral;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.thumb-cl{
+    transition: all 0.2s ease;
+}
+.thumb-cl:hover{
+    transform: scale(1.1);
+}
+.btn-order{
+    margin-top: 30px;
+    width: 270px;
+    height: 45.169px;
+    background: #0038FF;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    margin-left: 120px;
+}
+/* tutup detail */
+
+/* about */
+.about{
+    padding-top: 50px;
+    padding-bottom: 60px;
+    padding-left: 30px;
+    margin-top: 90px;
+    margin-left: 100px;
+    width: 780.722px;
+    border-radius: 0px 0px 18px 0px;
+    background: #E1A1A1;
+    box-shadow: -30px 30px 0px 0px #99D6E9;
+
+}
+.about h5{
+    color: #000;
+    font-size: 30px;
+    font-family: Sriracha;
+    font-style: normal;
+    font-weight: 400;
+}
+.about p{
+    color: #000;
+    font-size: 20px;
+    font-family: Spinnaker;
+    font-style: normal;
+    font-weight: 400;
+}
+/* tutup about */
+
+/* testi */
+.testi{
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.testi-bran{
+    margin-left: 90px;
+}
+.testi-bran p{
+    color: #000;
+    font-size: 32px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+.testi-bran h5{
+    color: #BFBFBF;
+    font-size: 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+.btn-warning{
+    transition: all 0.3s ease ;
+    color: #000;
+    text-align: center;
+    font-size: 16px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    width: 184px;
+    height: 34.218px;
+    border-radius: 5px;
+}
+.btn-warning:hover{
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+/* tutup testi */
+
+/* footer */
+.footer{
+    margin-top: 90px;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 60px;
+    background: #D9D9D9;
+}
+.footer-brand h5{
+    color: #000;
+    font-size: 35px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+}
+.footer-address h5{
+    color: #000;
+    text-align: right;
+    font-size: 25px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+}
+.footer-address p{
+    color: #000;
+    text-align: right;
+    font-size: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+}
+.copyright{
+    padding-top: 10px;
+    background: #240C15;
+    height: 50px;
+}
+.copyright p{
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+}
+.copyright p a{
+    color: #EA1B66;
+}
+/* tutup footer */

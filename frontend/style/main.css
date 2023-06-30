@@ -1,0 +1,237 @@
+/* navbar */
+.navbar{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.navbar-brand{
+    color: #000 !important;
+    font-size: 28px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+}
+.nav-link{
+    color: #000 !important; 
+    font-size: 17px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+}
+.nav-link.active{
+    color: #EA1B66 !important;
+}
+.nav-link:hover{
+    color: #EA1B66 !important;
+}
+/* tutup navbar */
+
+/* hero-section */
+.hero-section{
+    margin-top: 90px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.sect-brand h3{
+    color: #000;
+    font-size: 62px;
+    font-family: Spicy Rice;
+    font-style: normal;
+    font-weight: 400;
+}
+.sect-brand p{
+    color: #000;
+    font-size: 28px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+}
+.cta{
+    margin-top: 45px;
+}
+.btn-cta{
+    width: 248.852px;
+    height: 56.36px;
+    border-radius: 0px 18px 18px 0px;
+    background: rgba(255, 0, 0, 0.46);
+    color: #000;
+    font-size: 22px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    transition: all 0.3s ease;
+}
+.btn-cta:hover{
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.hero-img{
+    margin-left: 140px;
+}
+/* tutup hero-section */
+
+/* new-arrival */
+.new-arrival{
+    margin-top: 100px;
+    padding-top: 60px;
+    background: #DAE9EE;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 40px;
+}
+.na-jrk{
+    margin-top: 10px;
+}
+.na-poster{
+    margin-left: 120px;
+}
+.na-item{
+    transition: all 0.3s ease;
+    overflow: hidden;
+    position: relative;
+}
+.na-item:hover{
+    transform: scale(1.1);
+}
+/* tutup new-arrival */
+
+/* trend-categories */
+.trend-categories{
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.trend-categories h5{
+    color: #000;
+    font-size: 25px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.tc-thumb.gede{
+    margin-left: 170px;
+}
+.tc-thumb.kcil{
+    margin-left: 77px;
+}
+/* tutup trend-categories */
+
+/* popular-product */
+.popular-products{
+    margin-top: 80px;
+    padding-top: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background: #DAE9EE;
+    padding-bottom: 40px;
+}
+.popular-products h5{
+    color: #000;
+    font-size: 25px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.pp-thumb.jarak{
+    margin-left: 75px;
+}
+.pp-thumb{
+    transition: all 0.3s ease;
+    overflow: hidden;
+    position: relative;
+}
+.pp-thumb:hover{
+    transform: scale(1.1);
+}
+/* tutup popular-product */
+
+/* testi */
+.testi{
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.testi-bran{
+    margin-left: 90px;
+}
+.testi-bran p{
+    color: #000;
+    font-size: 32px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+.testi-bran h5{
+    color: #BFBFBF;
+    font-size: 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+}
+.btn-warning{
+    transition: all 0.3s ease ;
+    color: #000;
+    text-align: center;
+    font-size: 16px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    width: 184px;
+    height: 34.218px;
+    border-radius: 5px;
+}
+.btn-warning:hover{
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+/* tutup testi */
+
+/* footer */
+.footer{
+    margin-top: 90px;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 60px;
+    background: #D9D9D9;
+}
+.footer-brand h5{
+    color: #000;
+    font-size: 35px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+}
+.footer-address h5{
+    color: #000;
+    text-align: right;
+    font-size: 25px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+}
+.footer-address p{
+    color: #000;
+    text-align: right;
+    font-size: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+}
+.copyright{
+    padding-top: 10px;
+    background: #240C15;
+    height: 50px;
+}
+.copyright p{
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+}
+.copyright p a{
+    color: #EA1B66;
+}
+/* tutup footer */

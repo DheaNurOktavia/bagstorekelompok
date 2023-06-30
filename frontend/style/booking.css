@@ -1,0 +1,177 @@
+/* nav */
+.nav-brand{
+    height: 70px;
+    border-bottom: 1px solid #000;
+    background: #FFF;
+    color: #000;
+    padding-top: 15px;
+    font-size: 30px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+}
+/* tutup nav */
+
+/* payment */
+.payment{
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.payment h5{
+    color: #000;
+    text-align: center;
+    font-size: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+.total p{
+    color: #000;
+    font-size: 32px;
+    font-family: Niramit;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 60px;
+}
+.grs{
+    width: 1px;
+    height: 820px;
+    background: #000;
+    margin-left: 300px;
+    margin-right: 0px;
+}
+.form-group-aja{
+    width: 360px;
+    margin-left: 130px;
+}
+.form-text-label{
+    margin: 0;
+    margin-right: 200px;
+    text-align: left;
+    color: #000;
+    font-size: 16px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+}
+.form-text{
+    width: 350px;
+    height: 40px;
+    background-color: #E1A1A1;
+    font-size: 16px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 8px;
+    padding-left: 10px;
+    outline: none;
+    border: none;
+}
+.form-text::placeholder{
+    color: #FFF;
+}
+.custom-file input{
+    background-color: #E1A1A1 !important;
+}
+.custom-file-label{
+    background-color: #E1A1A1;
+}
+.custom-file{
+    width: 360px;
+}
+/* tutup payment */
+
+/* button */
+.button{
+    margin-top: 60px;
+}
+.btn-confirm{
+    width: 350px;
+    height: 45px;
+    border-radius: 10px;
+    background: rgba(246, 114, 114, 0.71);
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    transition: all 0.2s ease;
+}
+.btn-confirm:hover{
+    width: 400px;
+    font-weight: 600;
+}
+.btn-cancel{
+    margin-top: 20px;
+    width: 350px;
+    height: 45px;
+    border-radius: 10px;
+    background: rgba(212, 212, 212, 0.71);
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    transition: all 0.2s ease;
+}
+.btn-cancel:hover{
+    width: 400px;
+    font-weight: 600;
+}
+/* tutup button */
+
+
+/* footer */
+.footer{
+    margin-top: 90px;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 60px;
+    background: #D9D9D9;
+}
+.footer-brand h5{
+    color: #000;
+    font-size: 35px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+}
+.footer-address h5{
+    color: #000;
+    text-align: right;
+    font-size: 25px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+}
+.footer-address p{
+    color: #000;
+    text-align: right;
+    font-size: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+}
+.copyright{
+    padding-top: 10px;
+    background: #240C15;
+    height: 50px;
+}
+.copyright p{
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+}
+.copyright p a{
+    color: #EA1B66;
+}
+/* tutup footer */
